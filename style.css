@@ -1,0 +1,67 @@
+*{
+    margin: 3%;
+    padding: 0%;
+}
+.main{
+    float: left;
+    text-align: center;
+    font-size: 35px;
+    background-position: center;
+    background-color: bisque;
+
+}
+.m1{
+    margin: 0%;
+    padding: 0%;
+
+}
+.img-my{
+    float: right;
+    
+}
+#logo{
+    text-align: center;
+    margin: 30px;
+    color:blue;
+}
+
+#logo span{
+    color: #ff7200;
+   
+}
+h3{
+    margin-right: 900px;
+    color: #ff7200;
+    margin: 5%;
+    font-weight: 9000;
+}
+span{
+    color:black;
+    padding: 45px;
+    
+
+}
+.biodata{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background-color: lightblue;
+    right:15px;
+    
+}
+.biodata .bio{
+    font-size: 25px;
+    color: green;
+    margin-right: 700px;
+}
+.biodata .bio span{
+    color: #ff7200;
+    
+}
+.nav ul{
+    font-weight: 100;
+    font-size: 35px;
+}
+li a{
+    font-size: 30px;
+}
